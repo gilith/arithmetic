@@ -2,7 +2,7 @@ The arithmetic package
 ======================
 
 The [arithmetic package][] is a [Haskell][] library of natural number
-arithmetic functions, including:
+arithmetic, including:
 
 - Montgomery multiplication
 - The Miller-Rabin primality test
